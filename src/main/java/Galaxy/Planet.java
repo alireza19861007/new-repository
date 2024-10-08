@@ -4,7 +4,7 @@ public class Planet {
     private String name; // نام سیاره
     private String galaxy; // کهکشان
     private String type; // نوع (GAS یا ROCK)
-    private int moons; // تعداد قمر
+    private int moons; // تعداد  قمر
     private double distanceFromSun; // فاصله از خورشید
     private boolean hasLife; // آیا حیات وجود دارد؟
     private String resources; // منابع طبیعی
