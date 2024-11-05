@@ -14,7 +14,7 @@ public class Main {
         loadGalaxiesFromFile();
 
         while (true) {
-            System.out.println("به سیستم مدیریت کهکشان خوش آمدید!");
+            System.out.println("به سیستم مدیریت کهکشان خوش آمدید !");
             System.out.println("1. نمایش کهکشان‌ها");
             System.out.println("2. اضافه کردن سیاره جدید");
             System.out.println("3. تغییر تعداد قمر سیاره");
